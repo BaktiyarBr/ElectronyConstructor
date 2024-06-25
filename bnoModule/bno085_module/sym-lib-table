@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "bno085_module-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/bno085_module-eagle-import.kicad_sym")(options "")(descr ""))
+)
