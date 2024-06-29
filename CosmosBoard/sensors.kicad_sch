@@ -12056,7 +12056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_TT_P0915N"
 			(at 119.38 35.56 0)
 			(effects
 				(font
@@ -13089,7 +13089,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_TT_P0915N"
 			(at 93.98 35.56 0)
 			(effects
 				(font
@@ -18924,7 +18924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_TT_P0915N"
 			(at 106.68 35.56 0)
 			(effects
 				(font
